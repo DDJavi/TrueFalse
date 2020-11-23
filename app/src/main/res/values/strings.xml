@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrueFalse</string>
+    <string name="falseButton">FALSE</string>
+    <string name="trueButton">TRUE</string>
+    <string name="prButton"><![CDATA[<-]]></string>
+    <string name="nxButton"><![CDATA[->]]></string>
+    <string name="textview">Empty</string>
+</resources>
